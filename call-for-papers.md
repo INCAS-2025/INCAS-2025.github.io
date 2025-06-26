@@ -24,8 +24,9 @@ Qingkai Meng is an Assistant Professor (Ph.D. Advisor) at the School of Intellig
 The rise of programmable network devices -- such as switches and SmartNICs -- has enabled a new computing paradigm: **In-Network Computing (INC)**. By performing computation directly in the data plane, INC can reduce communication overhead, accelerate distributed coordination, and improve the efficiency of system-wide operations. **Distributed systems** stand to benefit significantly from this paradigm shift. Many of their core functions—such as replication, consensus, scheduling, aggregation, and load balancing—are communication-heavy and latency-sensitive. In-network computing provides a compelling opportunity to rethink these mechanisms by pushing parts of their logic into the network fabric. While recent research has demonstrated the feasibility of INC for specific tasks (e.g., cache indexing, gradient aggregation, distributed counters), broader system-level integration remains challenging. Open questions span from programming abstractions and hardware constraints to performance modeling, security, and compatibility with evolving distributed runtimes. This workshop focuses on **in-network computing and AI for distributed systems (INCAS)**. We aim to bring together researchers and practitioners to share emerging ideas, explore new design patterns, and identify key challenges at the intersection of programmable networks and distributed system architecture.  
 
 ---
-**Web Chair**  
+**Web Co-Chairs**  
 Songjun Huang (Sun Yat-sen University)
+Zeteng Yan (Sun Yat-sen University)
 
 **Publication Chair**  
 Jianqiang Zhong (Sun Yat-sen University)
