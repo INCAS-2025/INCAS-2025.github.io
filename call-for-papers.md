@@ -25,7 +25,7 @@ The rise of programmable network devices -- such as switches and SmartNICs -- ha
 
 ---
 **Web Co-Chairs**  
-Songjun Huang (Sun Yat-sen University)
+Songjun Huang (Sun Yat-sen University)  
 Zeteng Yan (Sun Yat-sen University)
 
 **Publication Chair**  
