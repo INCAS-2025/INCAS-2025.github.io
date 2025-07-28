@@ -373,7 +373,7 @@ footer {
     }
     .container {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
     }
     .top-left {
         font-size: 2.5em;
@@ -383,7 +383,7 @@ footer {
         margin: 0 auto;
     }
     td.navigation {
-        font-size: 1.3em; 
+        font-size: 1.4em; 
         padding: 0px 20px 0px 20px;
     }
     table.footer{
